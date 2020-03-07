@@ -1,0 +1,76 @@
+{
+  "page": 2,
+  "per_page": 6,
+  "total": 12,
+  "total_pages": 2,
+  "data": [
+    {
+      "id": 1,
+      "title": "michael.lawson@reqres.in",
+      "tags": [
+        "Michael",
+        "AXX"
+      ],
+      "user": {
+        "id": "1",
+        "name": "Michael Jackson",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      },
+      "description": "est your front-end against a real API. Fake data. No more tedious sample data creation, we've got it covered. Real responses. Develop with real response ...",
+      "timestamp": 1582779442744,
+      "price": "$200",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "2 Search Results Web results Reqres - A hosted REST-API ready to respond to your AJAX ...",
+      "tags": [
+        "Michael",
+        "AXX"
+      ],
+      "user": {
+        "id": "2",
+        "name": "Michael Jackson",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      },
+      "description": "22 est your front-end against a real API. Fake data. No more tedious sample data creation, we've got it covered. Real responses. Develop with real response ...",
+      "timestamp": 1582779442744,
+      "price": "$200",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "35 Search Results Web results Reqres - A hosted REST-API ready to respond to your AJAX ...",
+      "tags": [
+        "Michael",
+        "AXX"
+      ],
+      "user": {
+        "id": "1",
+        "name": "Michael Jackson",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      },
+      "description": "est your front-end against a real API. Fake data. No more tedious sample data creation, we've got it covered. Real responses. Develop with real response ...",
+      "timestamp": 1582779442744,
+      "price": "$200",
+      "rating": 4
+    },
+    {
+      "id": 17,
+      "title": "21 Search Results Web results Reqres - A hosted REST-API ready to respond to your AJAX ...",
+      "tags": [
+        "Michael",
+        "AXX"
+      ],
+      "user": {
+        "id": "1",
+        "name": "Michael Jackson",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg"
+      },
+      "description": "est your front-end against a real API. Fake data. No more tedious sample data creation, we've got it covered. Real responses. Develop with real response ...",
+      "timestamp": 1582779442744,
+      "price": "$200",
+      "rating": 4
+    }
+  ]
+}
